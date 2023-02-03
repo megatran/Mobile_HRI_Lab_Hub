@@ -71,7 +71,7 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 _Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interactions you planned with your teammates. (Do not plug in the CloneBot just yet.) Record these video clips, and submit them (Unlisted Youtube links are fine)._
 
 #### 1. Robot Dance Party
-<video src="https://youtu.be/BFkunMsG0do"></video>
+<iframe width="942" height="530" src="https://www.youtube.com/embed/BFkunMsG0do" title="CS6755: Robot Party" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 -  Fancy dance moves (e.g., backflip) that would be easier to draw on paper but difficult to act out.
@@ -81,8 +81,7 @@ _Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interac
 
 
 #### 2. Hospital Robot
-<video src="https://youtu.be/c_fL64GuzLU"></video>
-
+<iframe width="942" height="530" src="https://www.youtube.com/embed/c_fL64GuzLU" title="CS6755: Hospital Robot Interaction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 -  Drawing how the robot would approach the user and carry the load without tipping itself over.
 
@@ -91,8 +90,7 @@ _Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interac
 
 
 #### 3. Gates Hall Robot Navigator
-<video src="https://youtu.be/DjWNq2EmqCU"></video>
-
+<iframe width="942" height="530" src="https://www.youtube.com/embed/DjWNq2EmqCU" title="CS6755: Robot Navigator Interaction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 -  Drawing how the robot would approach the user and carry the load without tipping itself over.
