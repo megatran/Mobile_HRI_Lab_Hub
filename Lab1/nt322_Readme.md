@@ -71,7 +71,13 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 _Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interactions you planned with your teammates. (Do not plug in the CloneBot just yet.) Record these video clips, and submit them (Unlisted Youtube links are fine)._
 
 #### 1. Robot Dance Party
-<iframe width="942" height="530" src="https://www.youtube.com/embed/BFkunMsG0do" title="CS6755: Robot Party" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+YouTube: http://www.youtube.com/watch?v=BFkunMsG0do
+
+__Make sure to turn on your speaker/volume!__
+
+https://user-images.githubusercontent.com/10265967/216521393-e695d560-ee6e-4dde-93a1-c148c0257441.mov
+
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 -  Fancy dance moves (e.g., backflip) that would be easier to draw on paper but difficult to act out.
@@ -81,16 +87,29 @@ _Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interac
 
 
 #### 2. Hospital Robot
-<iframe width="942" height="530" src="https://www.youtube.com/embed/c_fL64GuzLU" title="CS6755: Hospital Robot Interaction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+YouTube: https://www.youtube.com/watch?v=c_fL64GuzLU
+
+__Make sure to turn on your speaker/volume!__
+
+https://user-images.githubusercontent.com/10265967/216521763-d16724eb-3cc3-440b-b541-e01b84f7c8ee.mov
+
+
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 -  Drawing how the robot would approach the user and carry the load without tipping itself over.
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
-- After observing that the robot would tip over when transporting medical supplies, we hope to figure out a etter way to distribute the load and make the robot more balanced during delivery.
+- After observing that the robot would tip over when transporting medical supplies, we hope to figure out a better way to distribute the load and make the robot more balanced during delivery.
 
 
 #### 3. Gates Hall Robot Navigator
-<iframe width="942" height="530" src="https://www.youtube.com/embed/DjWNq2EmqCU" title="CS6755: Robot Navigator Interaction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+YouTube: https://www.youtube.com/watch?v=DjWNq2EmqCU
+
+__Make sure to turn on your speaker/volume!__
+
+https://user-images.githubusercontent.com/10265967/216521978-5060a4bf-1bb5-4c8e-83cc-12af0aaf024e.mov
+
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 -  Drawing how the robot would approach the user and carry the load without tipping itself over.
