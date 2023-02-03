@@ -71,16 +71,7 @@ Leverage the possible motions of Clonebot and the extra degree of freedom provid
 _Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interactions you planned with your teammates. (Do not plug in the CloneBot just yet.) Record these video clips, and submit them (Unlisted Youtube links are fine)._
 
 #### 1. Robot Dance Party
-<video src='https://youtu.be/BFkunMsG0do' width=180/>
-
-\*\***Are there things that seemed better on paper than acted out?**\*\*
--  Fancy dance moves (e.g., backflip) that would be easier to draw on paper but difficult to act out.
-
-\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
-- The robbt should sense the kind of dance and try to synchronize with the tempo as well as the human's choreography.
-
-#### 1. Robot Dance Party
-<video src='https://youtu.be/BFkunMsG0do' width=180/>
+<video src="https://youtu.be/BFkunMsG0do"></video>
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 -  Fancy dance moves (e.g., backflip) that would be easier to draw on paper but difficult to act out.
@@ -90,7 +81,7 @@ _Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interac
 
 
 #### 2. Hospital Robot
-<video src='https://youtu.be/c_fL64GuzLU' width=180/>
+<video src="https://youtu.be/c_fL64GuzLU"></video>
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 -  Drawing how the robot would approach the user and carry the load without tipping itself over.
@@ -100,7 +91,8 @@ _Select 3 of the 5 storyboards to act out. Try physically enacting the 3 interac
 
 
 #### 3. Gates Hall Robot Navigator
-<video src='https://youtu.be/DjWNq2EmqCU' width=180/>
+<video src="https://youtu.be/DjWNq2EmqCU"></video>
+
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 -  Drawing how the robot would approach the user and carry the load without tipping itself over.
