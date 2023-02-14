@@ -18,7 +18,7 @@ E) [Video record the interaction](#part-e-record)
 
 ## Part A. Provide Feedback
 
-- Our feedback for team of [yh374 and ck766](https://github.com/DanielZh99/Mobile_HRI_Lab_Hub/tree/main/Lab1) is that while the videos demonstrate viable interactions with the robot, they could better leverage the robot's mobility and effectively convey its intended application. However, after reviewing the storyboards, we gained a better understanding of the interaction's objectives, such as using waving gestures to signal traffic and clapping to activate lights in a mine. We believe the team is making progress in utilizing the robot's capabilities, but it is unclear in what scenarios these interactions will be beneficial.
+- *Our feedback for team of [yh374 and ck766](https://github.com/DanielZh99/Mobile_HRI_Lab_Hub/tree/main/Lab1) is that while the videos demonstrate viable interactions with the robot, they could better leverage the robot's mobility and effectively convey its intended application. However, after reviewing the storyboards, we gained a better understanding of the interaction's objectives, such as using waving gestures to signal traffic and clapping to activate lights in a mine. We believe the team is making progress in utilizing the robot's capabilities, but it is unclear in what scenarios these interactions will be beneficial.*
 
 
 
@@ -76,19 +76,20 @@ Pick one of the custumes and make it with paper or cardboard or any other materi
 
 <img src="img/nursebot.png" />
 
-- Reflection: The nurse outfit worn by our robot may cause overheating since it covers the robot completely. The outfit imitates the protective gown worn by healthcare workers during the COVID-19 pandemic to prevent the transmission of bodily fluids. We allowed some space between the wheels for ventilation and movement and placed a box on top of the robot to indicate its purpose of delivering supplies. The red cross on the outfit is a nod to the traditional nurse cornette and signifies its application in healthcare.
+- Reflection: *The nurse outfit worn by our robot may cause overheating since it covers the robot completely. The outfit imitates the protective gown worn by healthcare workers during the COVID-19 pandemic to prevent the transmission of bodily fluids. We allowed some space between the wheels for ventilation and movement and placed a box on top of the robot to indicate its purpose of delivering supplies. The red cross on the outfit is a nod to the traditional nurse cornette and signifies its application in healthcare.*
 
-- Here is our prototype after 20 minutes tinkering with cardboard and scratch paper
+- * Here is our prototype after 20 minutes tinkering with cardboard and scratch paper.*
+
 <img src="img/IMG_0321.jpg" />
 
 
 #### 2. Site: Dancing Robot with a hula skirt
 <img src="img/hulabot.png" />
-- Reflection: Our robot wears a hula skirt inspired by Hawaiian culture to showcase its dancing ability. It has enough room for wheel movement and ventilation, so overheating is not an issue. A minor concern is a piece of the skirt could get stuck in the wheels during the performance. Although there is minimal risk of water damage if the robot is placed on a table with cups or mugs, it is primarily designed for tabletop entertainment.
+- Reflection: *Our robot wears a hula skirt inspired by Hawaiian culture to showcase its dancing ability. It has enough room for wheel movement and ventilation, so overheating is not an issue. A minor concern is a piece of the skirt could get stuck in the wheels during the performance. Although there is minimal risk of water damage if the robot is placed on a table with cups or mugs, it is primarily designed for tabletop entertainment.*
 
 #### 3. Site: Navigator Robot with reflective, protective costume.
 <img src="img/guidebot.png" />
-- Reflection: To attract the attention of visitors in the hall and minimize collision, our guide bot sports a bright, reflective, orange vest resembling the ones worn by traffic workers who manage roadwork during both day and night. The vest is designed to cover the robot partially to reduce the risk of overheating and fabric entanglement. As the robot serves as a lobby greeter, the risk of water damage is minimal.
+- Reflection: *To attract the attention of visitors in the hall and minimize collision, our guide bot sports a bright, reflective, orange vest resembling the ones worn by traffic workers who manage roadwork during both day and night. The vest is designed to cover the robot partially to reduce the risk of overheating and fabric entanglement. As the robot serves as a lobby greeter, the risk of water damage is minimal.*
 
 
 
@@ -97,21 +98,34 @@ Pick one of the custumes and make it with paper or cardboard or any other materi
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
+*Please click on the speaker/volume button for sound*
+
+https://user-images.githubusercontent.com/10265967/218651235-e15ada78-9380-42f2-8d6e-356d9f19b1e0.mov
+
+
 
 ## Part E. Record
 
 \*\***Take videos of your prototyped interaction.**\*\*
 
+**YouTube: https://youtu.be/0fKNfsN-Z_4**
+
+*Please click on the speaker/volume button for sound*
+
+https://user-images.githubusercontent.com/10265967/218652109-8eb143a1-4468-4ce6-a702-ac31fa6d81a9.mov
+
+
+
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 
-Nhan Tran and Violette (equal contribution)
+- *Nhan Tran and Violette (equal contribution)*
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
 <img src="img/IMG_0323.jpeg" />
 
 ### Final reflection
-- In our lab, we practiced "storyboarding" to quickly sketch out our envisioned human-robot interactions. We drew inspiration from our daily lives and selected symbols associated with each robot's functionality, such as nurse headwear and a red cross for hospital delivery robots, and a bright, reflective vest for robot navigators. To maintain the robot's modesty and protect wires and electronics, we decided to fully clothe the robots. However, this would mean that some built-in sensors like cameras would be obstructed by the outfit. However, we opted for clothing that clearly displays the robot's function and role in the designated location. We could easily attach an external camera or webcam in a more suitable location with a better view of obstacles. We also considered the risk of overheating but resolved it by ensuring adequate ventilation and space around the wheels.
+- *In our lab, we practiced "storyboarding" to quickly sketch out our envisioned human-robot interactions. We drew inspiration from our daily lives and selected symbols associated with each robot's functionality, such as nurse headwear and a red cross for hospital delivery robots, and a bright, reflective vest for robot navigators. To maintain the robot's modesty and protect wires and electronics, we decided to fully clothe the robots. However, this would mean that some built-in sensors like cameras would be obstructed by the outfit. However, we opted for clothing that clearly displays the robot's function and role in the designated location. We could easily attach an external camera or webcam in a more suitable location with a better view of obstacles. We also considered the risk of overheating but resolved it by ensuring adequate ventilation and space around the wheels.*
 
 
 ### Again, deliverables for this lab are: 
