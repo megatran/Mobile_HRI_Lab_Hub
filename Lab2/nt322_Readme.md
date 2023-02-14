@@ -124,6 +124,8 @@ https://user-images.githubusercontent.com/10265967/218652109-8eb143a1-4468-4ce6-
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
+- PDF file of designa and storyboard: https://github.com/megatran/Mobile_HRI_Lab_Hub/blob/main/Lab2/hri_lab2_robot_costumes.pdf
+
 <img src="img/IMG_0323.jpeg" />
 
 ### Final reflection
