@@ -130,8 +130,8 @@ https://user-images.githubusercontent.com/10265967/218652109-8eb143a1-4468-4ce6-
 
 ### Again, deliverables for this lab are: 
 
-[x] Fill in the questions along the way! 
-[x] photos of costumed robots
-[x] Reflections on the process
-[x] Video sketch of 1 prototyped interactions with the costumed device
-[x] Submit the items above in the lab2 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same from each person in the group.
+- [x] Fill in the questions along the way! 
+- [x] photos of costumed robots
+- [x] Reflections on the process
+- [x] Video sketch of 1 prototyped interactions with the costumed device
+- [x] Submit the items above in the lab2 folder of your class [Github page], either as links or uploaded files. Each group member should post their own copy of the work to their own Lab Hub, even if some of the work is the same from each person in the group.
