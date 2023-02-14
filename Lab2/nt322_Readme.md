@@ -76,7 +76,7 @@ Pick one of the custumes and make it with paper or cardboard or any other materi
 
 <img src="img/nursebot.png" />
 
-- Reflection: *The nurse outfit worn by our robot may cause overheating since it covers the robot completely. The outfit imitates the protective gown worn by healthcare workers during the COVID-19 pandemic to prevent the transmission of bodily fluids. We allowed some space between the wheels for ventilation and movement and placed a box on top of the robot to indicate its purpose of delivering supplies. The red cross on the outfit is a nod to the traditional nurse cornette and signifies its application in healthcare.*
+-  *Reflection: The nurse outfit worn by our robot may cause overheating since it covers the robot completely. The outfit imitates the protective gown worn by healthcare workers during the COVID-19 pandemic to prevent the transmission of bodily fluids. We allowed some space between the wheels for ventilation and movement and placed a box on top of the robot to indicate its purpose of delivering supplies. The red cross on the outfit is a nod to the traditional nurse cornette and signifies its application in healthcare.*
 
 - * Here is our prototype after 20 minutes tinkering with cardboard and scratch paper.*
 
@@ -85,11 +85,13 @@ Pick one of the custumes and make it with paper or cardboard or any other materi
 
 #### 2. Site: Dancing Robot with a hula skirt
 <img src="img/hulabot.png" />
-- Reflection: *Our robot wears a hula skirt inspired by Hawaiian culture to showcase its dancing ability. It has enough room for wheel movement and ventilation, so overheating is not an issue. A minor concern is a piece of the skirt could get stuck in the wheels during the performance. Although there is minimal risk of water damage if the robot is placed on a table with cups or mugs, it is primarily designed for tabletop entertainment.*
+
+   *Reflection: Our robot wears a hula skirt inspired by Hawaiian culture to showcase its dancing ability. It has enough room for wheel movement and ventilation, so overheating is not an issue. A minor concern is a piece of the skirt could get stuck in the wheels during the performance. Although there is minimal risk of water damage if the robot is placed on a table with cups or mugs, it is primarily designed for tabletop entertainment.*
 
 #### 3. Site: Navigator Robot with reflective, protective costume.
 <img src="img/guidebot.png" />
-- Reflection: *To attract the attention of visitors in the hall and minimize collision, our guide bot sports a bright, reflective, orange vest resembling the ones worn by traffic workers who manage roadwork during both day and night. The vest is designed to cover the robot partially to reduce the risk of overheating and fabric entanglement. As the robot serves as a lobby greeter, the risk of water damage is minimal.*
+
+*Reflection: To attract the attention of visitors in the hall and minimize collision, our guide bot sports a bright, reflective, orange vest resembling the ones worn by traffic workers who manage roadwork during both day and night. The vest is designed to cover the robot partially to reduce the risk of overheating and fabric entanglement. As the robot serves as a lobby greeter, the risk of water damage is minimal.*
 
 
 
