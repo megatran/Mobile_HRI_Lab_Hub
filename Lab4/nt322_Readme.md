@@ -1,5 +1,5 @@
 # Make the robot see
-**nt322, ck766 **
+** Team Ids: nt322, ck766 **
 
 Build off of Lab 3 from last week. This week's material can be done rather quickly.
 
