@@ -228,7 +228,7 @@ colcon build
 Take a look at `~/mobilehri_ws/src/mobilehri2023/joy_teleop_keymapping/joy_teleop_keymapping/keymapping_node.py`.
 Pay attention to how the values are accessed from joystick controller and map to a twist message. 
 ```
-source install/setup.batch
+source install/setup.bash
 ros2 launch joy_teleop_keymapping mapping_launch.py
 ```
 We start two nodes, the `joy` node from the previous section, and a `keymapping` node (that I wrote) to map joystick commands to twist messages (under `/cmd_vel`). We only concern overselves with the forward x-axis of linear velocity and upward z-axis of the angular velocity. (Why? Think about all the possible movements of a hoverboard.) 
@@ -289,7 +289,7 @@ v_r = (v + \frac{lw}{2})/r
 
 **TODO**: Complete the code in `~/mobilehri_ws/src/mobilehri2023/mobile_robot_control/mobile_robot_control/odrive_command.py` with the computation we just did. I strongly recommend you to use VS Code to code (check previous lab for details). Your **TODOs** are on line 54 and 74. For now, you don't need to make changes for wheel track distance, but you need to after you made your own robot.
 
-Wheel track distance and wheel radius are renamed as `self.wheel_track` and `self.tyre_circumference` respectively. In the future, change the wheel track distance to match your own robot. 
+Wheel track distance is renamed as `self.wheel_track`. In the future, change the wheel track distance to match your own robot. 
 
 ```bash
 # On RPi
