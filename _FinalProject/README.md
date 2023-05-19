@@ -11,8 +11,11 @@ Team: Nhan Tran, Frank Kim, Wendy Huang, Daniel Zhou
 
 
 ### Final Report
-##### Please see `CS6755_Final_Project_Writeup.pdf` in this repo
+##### Please see `CS6755_Final_Project_Writeup.pdf` in this directory
 - https://github.com/megatran/Mobile_HRI_Lab_Hub/blob/main/_FinalProject/CS6755_Final_Project_Writeup.pdf
+
+#### Code
+- Please `mobilehri_ws/src` in this directory
 
 
 ### To start
