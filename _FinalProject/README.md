@@ -9,6 +9,12 @@ Team: Nhan Tran, Frank Kim, Wendy Huang, Daniel Zhou
 </p>
 
 
+
+### Final Report
+##### Please see `CS6755_Final_Project_Writeup.pdf` in this repo
+- https://github.com/megatran/Mobile_HRI_Lab_Hub/blob/main/_FinalProject/CS6755_Final_Project_Writeup.pdf
+
+
 ### To start
 
 We have two launch files for the robot prototype 
@@ -26,13 +32,7 @@ We have two launch files for the robot prototype
 To enable “vision mode”, press R1 on the joystick. When you walk towards the robot (or when a human is detected), you’ll see the wheels moving when you press the R1 button. When you walk out of the camera’s field of view, the wheels should stop moving (when you hold R1)
 
 
-
-
-### Final Document
-- Please see `CS6755_Final_Project_Writeup.pdf` in this repo
-
-<object data="./CS6755_Final_Project_Writeup.pdf" width="1000" height="1000" type='application/pdf'></object>
-
+ <embed src="./CS6755_Final_Project_Writeup.pdf" width="600px" height="500px" />
 
 
 
